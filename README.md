@@ -4,6 +4,11 @@
   <i>A 2-axis cartesian writing machine and braille embosser built from scratch (CAD, 3D printing, and Arduino CNC control).</i>
 </p>
 
+<p align="center">
+<img width="4096" height="3072" alt="IMG_20250602_205930" src="https://github.com/user-attachments/assets/66bf39e3-76ea-47d1-85ca-fbf79cdd02e2" />
+</p>
+
+
 ## 📝 Overview
 This project was developed during my 3rd year of engineering studies at Polytech Lyon (Industrial Systems & Robotics). The goal was to design, manufacture, and assemble a 2-axis industrial machine. 
 
@@ -21,6 +26,10 @@ As part of a 4-person team, I was the **Mechanical & Hardware Lead**. My respons
 *   **Hardware Integration:** I was responsible for wiring the electronics, including the NEMA stepper motors, the Arduino Uno, the CNC Shield, and the limit switches.
 
 *(Note: The software integration, GRBL flashing, and G-Code generation were handled by my teammates).*
+
+<p align="center">
+<img width="595" height="281" alt="Capture d&#39;écran 2026-09-13 182711" src="https://github.com/user-attachments/assets/29f13a01-2c79-4eba-8a47-192db6321f84" />
+</p>
 
 <br>
 
