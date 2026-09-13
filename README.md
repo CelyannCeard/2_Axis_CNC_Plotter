@@ -49,8 +49,7 @@ The machine is based on a standard H-bot / Cartesian XY gantry system.
 ## 📁 Repository Structure
 This repository contains the mechanical assets of the project:
 *   `/CAD_Parts/`: Contains the `.prt` (Creo) and `.stl` files of the 3D printed components (motor brackets, pulley mounts, toolhead slider, etc.).
-*   `/Assembly/`: Screenshots and renders of the CAD assembly.
-*   `Pieceq.xlsx`: The Bill of Materials listing the mechanical and electronic components.
+*   `Pieces_2Axis.xlsx`: The Bill of Materials listing the mechanical and electronic components.
 
 <br>
 
