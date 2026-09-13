@@ -40,6 +40,10 @@ The machine is based on a standard H-bot / Cartesian XY gantry system.
 *   **Z-Axis (Toolhead):** A custom toolhead actuated by a micro-servo motor lifts and lowers the pen/puncher.
 *   **Structure:** Built around 20x20mm aluminum extrusions, corner brackets, and 3D-printed mounts (available in this repository).
 
+<p align="center">
+<img width="541" height="290" alt="Capture d&#39;écran 2026-09-13 183243" src="https://github.com/user-attachments/assets/e4572227-29f6-4f65-860a-26d4d351d7c2" />
+</p>
+
 <br>
 
 ## 📁 Repository Structure
@@ -53,6 +57,10 @@ This repository contains the mechanical assets of the project:
 ## 🚀 Results & Challenges
 The machine was successfully assembled and the Arduino CNC Shield correctly received and executed G-Code via ChiliPeppr/GRBL. 
 One of the main challenges was the structural rigidity required for the Braille function. Braille dots require precise 2.3mm spacing and significant downward force, which pushed the limits of our 3D-printed toolhead rigidity, leading us to focus primarily on the 2D drawing capabilities for the final demonstration.
+
+<p align="center">
+<img width="3072" height="4096" alt="IMG_20250604_133113" src="https://github.com/user-attachments/assets/c5193b6b-37c3-483b-a517-d6a1f370ba3a" />
+</p>
 
 ---
 *Project Team: Celyann CEARD (CAD & Assembly), Julien RIOU (Project Manager), Quentin DREULETTE (Software), Lucas GALMAR.*
