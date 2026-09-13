@@ -59,7 +59,7 @@ The machine was successfully assembled and the Arduino CNC Shield correctly rece
 One of the main challenges was the structural rigidity required for the Braille function. Braille dots require precise 2.3mm spacing and significant downward force, which pushed the limits of our 3D-printed toolhead rigidity, leading us to focus primarily on the 2D drawing capabilities for the final demonstration.
 
 <p align="center">
-<img width="3072" height="4096" alt="IMG_20250604_133113" src="https://github.com/user-attachments/assets/c5193b6b-37c3-483b-a517-d6a1f370ba3a" />
+<img width="307" height="409" alt="IMG_20250604_133113" src="https://github.com/user-attachments/assets/c5193b6b-37c3-483b-a517-d6a1f370ba3a" />
 </p>
 
 ---
