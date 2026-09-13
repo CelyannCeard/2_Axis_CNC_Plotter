@@ -5,7 +5,7 @@
 </p>
 
 ## 📝 Overview
-This project was developed during my 3rd year of engineering studies at Polytech Lyon (Industrial Systems & Robotics)[cite: 6]. The goal was to design, manufacture, and assemble a 2-axis industrial machine. 
+This project was developed during my 3rd year of engineering studies at Polytech Lyon (Industrial Systems & Robotics). The goal was to design, manufacture, and assemble a 2-axis industrial machine. 
 
 Our team built a versatile **XY Plotter** capable of two main functions:
 1.  **2D Drawing:** Accurately drawing complex shapes and texts on paper using a pen.
